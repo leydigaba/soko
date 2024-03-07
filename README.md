@@ -64,14 +64,14 @@ Para moverse en el juego el usuario utilizará alguna de las siguientes letras p
 | 6. | Personaje, meta  | Por hacer | [0,2] | [4,6] |- |
 | 7. | Personaje, caja, pasillo | Por hacer | [0,1,4] | [4,0,1] | - |
 | 8. | Personaje, caja,  meta | Por hacer | [0,1,2] | [4,0,5] | - |
-| 9. | Personaje, caja_meta, pasillo | Por hacer | [] | [] | - |
-| 10. |Personaje, caja_meta, meta | Por hacer | [] | [] | - |
-| 11. | Personaje_meta, pasillo | Por hacer | [] | [] | - |
-| 12. | Personaje_meta, meta | Por hacer | [] | [] | - |
-| 13. | Personaje_meta, caja, pasillo | Por hacer | [] | [] | - |
-| 14. | Personaje_meta, caja, meta | Por hacer | [] | [] | - |
-| 15. | Personaje_meta, caja_meta, pasillo | Por hacer | [] | [] | - |
-| 16. | Personaje_meta, caja_meta, meta | Por hacer | [] | [] | - |
+| 9. | Personaje, caja_meta, pasillo | Por hacer | [0,5,4] | [4,5,0 ] | - |
+| 10. |Personaje, caja_meta, meta | Por hacer | [0,6,2] | [5,6] | - |
+| 11. | Personaje_meta, pasillo | Por hacer | [5,4] | [4,5] | - |
+| 12. | Personaje_meta, meta | Por hacer | [5,2] | [2,5] | - |
+| 13. | Personaje_meta, caja, pasillo | Por hacer | [5,1,4] | [4,1,5] | - |
+| 14. | Personaje_meta, caja, meta | Por hacer | [5,1,2] | [1,5,2] | - |
+| 15. | Personaje_meta, caja_meta, pasillo | Por hacer | [5,6,4] | [4,6,5] | - |
+| 16. | Personaje_meta, caja_meta, meta | Por hacer | [5,6,2] | [2,6,5] | - |
 
 ## Izquierda
 
