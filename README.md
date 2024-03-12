@@ -77,9 +77,9 @@ Para moverse en el juego el usuario utilizará alguna de las siguientes letras p
 
 | No. | Función | Kanban | Fecha terminación |
 | --- | --- | --- | --- |
-| 17. | Personaje y espacio | Por hacer | - |
-| 18. | Personaje y meta | Por hacer | - |
-| 19. | Personaje, caja y espacio | Por hacer | - |
+| 17. | Personaje y espacio | Por hacer | 0,4-  4,0|
+| 18. | Personaje y meta | Por hacer | 0,3-3,0 |
+| 19. | Personaje, caja y espacio | Por hacer |0,1,4 - 4,0,1|
 | 20. | Personaje, caja y meta | Por hacer | - |
 | 21. | Personaje, caja_meta y espacio | Por hacer | - |
 | 22. | Personaje, caja_meta y meta | Por hacer | - |
@@ -94,24 +94,24 @@ Para moverse en el juego el usuario utilizará alguna de las siguientes letras p
 
 | No. | Función | Kanban | Fecha terminación |
 | --- | --- | --- | --- |
-| 29. | Personaje y espacio | Por hacer | - |
-| 30. | Personaje y meta | Por hacer | - |
-| 31. | Personaje, caja y espacio | Por hacer | - |
-| 32. | Personaje, caja y meta | Por hacer | - |
-| 33. | Personaje, caja_meta y espacio | Por hacer | - |
-| 34. | Personaje, caja_meta y meta | Por hacer | - |
-| 35. | Personaje_meta y espacio | Por hacer | - |
-| 36. | Personaje_meta y meta | Por hacer | - |
-| 37. | Personaje_meta, caja y espacio | Por hacer | - |
-| 38. | Personaje_meta, caja y meta | Por hacer | - |
-| 39. | Personaje_meta, caja_meta y espacio | Por hacer | - |
-| 40. | Personaje_meta, caja_meta y meta | Por hacer | - |
+| 29. | Personaje y espacio | Por hacer | 0,4- 4,0 |
+| 30. | Personaje y meta | Por hacer |0,2,4 - 4,0,2 |
+| 31. | Personaje, caja y espacio | Por hacer |0,1,4 - 4,0,1|
+| 32. | Personaje, caja y meta | Por hacer | 0,1,2- 4,0,6 |
+| 33. | Personaje, caja_meta y espacio | Por hacer |0,6,4 - 4,0,6|
+| 34. | Personaje, caja_meta y meta | Por hacer |0,6,2 -4,0,6,2 |
+| 35. | Personaje_meta y espacio | Por hacer |5,4 -4,5 |
+| 36. | Personaje_meta y meta | Por hacer 5,2 - |4,5,2
+| 37. | Personaje_meta, caja y espacio | Por hacer |5,1, - 4,5,1|
+| 38. | Personaje_meta, caja y meta | Por hacer | 5,1,2- 4,5,1|
+| 39. | Personaje_meta, caja_meta y espacio | Por hacer |5,6,4 -4,5,6 |
+| 40. | Personaje_meta, caja_meta y meta | Por hacer |5,6,2 - 4,6,2|
 
 ## Abajo
 
 | No. | Función | Kanban | Fecha terminación |
 | --- | --- | --- | --- |
-| 41. | Personaje y espacio | Por hacer | - |
+| 41. | Personaje y espacio | Por hacer |
 | 42. | Personaje y meta | Por hacer | - |
 | 43. | Personaje, caja y espacio | Por hacer | - |
 | 44. | Personaje, caja y meta | Por hacer | - |
