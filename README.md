@@ -61,7 +61,7 @@ Para moverse en el juego el usuario utilizará alguna de las siguientes letras p
 | No. | Función | Kanban | Inicio | Fin | Fecha terminación |
 | --- | --- | --- | --- | --- | --- |
 | 5. | Personaje, pasillo  | Por hacer | [0,4] | [4,0] | - |
-| 6. | Personaje, meta  | Por hacer | [0,2] | [4,6] |- |
+| 6. | Personaje, meta  | Por hacer | [0,2] | [4,5] |- |
 | 7. | Personaje, caja, pasillo | Por hacer | [0,1,4] | [4,0,1] | - |
 | 8. | Personaje, caja,  meta | Por hacer | [0,1,2] | [4,0,5] | - |
 | 9. | Personaje, caja_meta, pasillo | Por hacer | [0,5,4] | [4,5,0 ] | - |
