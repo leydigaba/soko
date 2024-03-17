@@ -69,7 +69,7 @@ Para moverse en el juego el usuario utilizará alguna de las siguientes letras p
 | 11. | Personaje_meta, pasillo | Por hacer | [5,4] | [2,0] | - |
 | 12. | Personaje_meta, meta | Por hacer | [5,2] | [2,5] | - |
 | 13. | Personaje_meta, caja, pasillo | Por hacer | [5,1,4] | [2,0,1] | - |
-| 14. | Personaje_meta, caja, meta | Por hacer | [5,1,2] | [1,5,2] | - |
+| 14. | Personaje_meta, caja, meta | Por hacer | [5,1,2] | [2,0,6] | - |
 | 15. | Personaje_meta, caja_meta, pasillo | Por hacer | [5,6,4] | [2,5,1] | - |
 | 16. | Personaje_meta, caja_meta, meta | Por hacer | [5,6,2] | [2,5,6] | - |
 
