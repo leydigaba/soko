@@ -60,18 +60,18 @@ Para moverse en el juego el usuario utilizará alguna de las siguientes letras p
 
 | No. | Función | Kanban | Inicio | Fin | Fecha terminación |
 | --- | --- | --- | --- | --- | --- |
-| 5. | Personaje, pasillo  | Por hacer | [0,4] | [4,0] | - |
-| 6. | Personaje, meta  | Por hacer | [0,2] | [4,6] |- |
-| 7. | Personaje, caja, pasillo | Por hacer | [0,1,4] | [4,0,1] | - |
-| 8. | Personaje, caja,  meta | Por hacer | [0,1,2] | [4,0,6] | - |
-| 9. | Personaje, caja_meta, pasillo | Por hacer | [0,6,4] | [4,5,1] | - |
-| 10. |Personaje, caja_meta, meta | Por hacer | [0,6,2] | [4,5,6] | - |
-| 11. | Personaje_meta, pasillo | Por hacer | [5,4] | [2,0] | - |
-| 12. | Personaje_meta, meta | Por hacer | [5,2] | [2,5] | - |
-| 13. | Personaje_meta, caja, pasillo | Por hacer | [5,1,4] | [2,0,1] | - |
-| 14. | Personaje_meta, caja, meta | Por hacer | [5,1,2] | [2,0,6] | - |
-| 15. | Personaje_meta, caja_meta, pasillo | Por hacer | [5,6,4] | [2,5,1] | - |
-| 16. | Personaje_meta, caja_meta, meta | Por hacer | [5,6,2] | [2,5,6] | - |
+| 5. | Personaje, pasillo  | Terminado | [0,4] | [4,0] | 16/03/24 |
+| 6. | Personaje, meta  | Terminado | [0,2] | [4,6] |16/03/24 |
+| 7. | Personaje, caja, pasillo | Terminado | [0,1,4] | [4,0,1] | 16/03/24 |
+| 8. | Personaje, caja,  meta | Terminado | [0,1,2] | [4,0,6] | 16/03/24 |
+| 9. | Personaje, caja_meta, pasillo | Terminado | [0,6,4] | [4,5,1] | 17/03/24 |
+| 10. |Personaje, caja_meta, meta | Terminado | [0,6,2] | [4,5,6] | 17/03/24|
+| 11. | Personaje_meta, pasillo | Terminado| [5,4] | [2,0] | 17/03/24 |
+| 12. | Personaje_meta, meta |Terminado | [5,2] | [2,5] | 17/03/24|
+| 13. | Personaje_meta, caja, pasillo | Terminado | [5,1,4] | [2,0,1] | 17/08/2024 |
+| 14. | Personaje_meta, caja, meta |Terminado | [5,1,2] | [2,0,6] | 17/08/2024|
+| 15. | Personaje_meta, caja_meta, pasillo | Terminado | [5,6,4] | [2,5,1] | 17/08/2024 |
+| 16. | Personaje_meta, caja_meta, meta | Terminado [5,6,2] | [2,5,6] | 17/08/2024|
 
 ## Izquierda
 
