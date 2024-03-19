@@ -75,8 +75,8 @@ Para moverse en el juego el usuario utilizará alguna de las siguientes letras p
 
 ## Izquierda
 
-| No. | Función | Kanban | Fecha terminación |
-| --- | --- | --- | --- |
+| No. | Función | Kanban || Inicio | Fin | Fecha terminación |
+| --- | --- | --- | --- | | --- | --- |
 | 17. | Personaje y espacio | Por hacer | 0,4-  4,0|
 | 18. | Personaje y meta | Por hacer | 0,3-3,0 |
 | 19. | Personaje, caja y espacio | Por hacer |0,1,4 - 4,0,1|
