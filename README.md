@@ -80,7 +80,7 @@ Para moverse en el juego el usuario utilizará alguna de las siguientes letras p
 | 17. | Personaje y espacio | Por hacer |19/03/24|
 | 18. | Personaje y meta | Por hacer |19/03/24|
 | 19. | Personaje, caja y espacio | Por hacer |19/03/24|
-| 20. | Personaje, caja y meta | Por hacer | 2,1,0 |19/03/24|
+| 20. | Personaje, caja y meta | Por hacer  |19/03/24|
 | 21. | Personaje, caja_meta y espacio | Por hacer |19/03/24|
 | 22. | Personaje, caja_meta y meta | Por hacer |19/03/24|
 | 23. | Personaje_meta y espacio | Por hacer |19/03/24|
