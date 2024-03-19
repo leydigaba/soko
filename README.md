@@ -77,18 +77,18 @@ Para moverse en el juego el usuario utilizará alguna de las siguientes letras p
 
 | No. | Función | Kanban | Fecha terminación |
 | --- | --- | --- | --- | 
-| 17. | Personaje y espacio | Por hacer | 0,4-  4,0|
-| 18. | Personaje y meta | Por hacer | 0,3-3,0 |
-| 19. | Personaje, caja y espacio | Por hacer |0,1,4 - 4,0,1|
-| 20. | Personaje, caja y meta | Por hacer | 2,1,0 | [6,0,4] | 
-| 21. | Personaje, caja_meta y espacio | Por hacer | [4,6,0] | [1,5,4] |
-| 22. | Personaje, caja_meta y meta | Por hacer | [2,6,0] | [6,5,4] |
-| 23. | Personaje_meta y espacio | Por hacer | [4,5] | [0,2] |
-| 24. | Personaje_meta y meta | Por hacer | [2,5] | [5,2] |
-| 25. | Personaje_meta, caja y espacio | Por hacer | [4,1,5] | [1,0,2] |
-| 26. | Personaje_meta, caja y meta | Por hacer  | [2,1,5] | [6,0,2] | 
-| 27. | Personaje_meta, caja_meta y espacio | Por hacer | [4,6,5] | [1,5,2] |
-| 28. | Personaje_meta, caja_meta y meta | Por hacer | [2,6,5] | [6,5,2] |
+| 17. | Personaje y espacio | Por hacer |19/03/24|
+| 18. | Personaje y meta | Por hacer |19/03/24|
+| 19. | Personaje, caja y espacio | Por hacer |19/03/24|
+| 20. | Personaje, caja y meta | Por hacer | 2,1,0 |19/03/24|
+| 21. | Personaje, caja_meta y espacio | Por hacer |19/03/24|
+| 22. | Personaje, caja_meta y meta | Por hacer |19/03/24|
+| 23. | Personaje_meta y espacio | Por hacer |19/03/24|
+| 24. | Personaje_meta y meta | Por hacer |19/03/24|
+| 25. | Personaje_meta, caja y espacio | Por hacer |19/03/24|
+| 26. | Personaje_meta, caja y meta | Por hacer  |19/03/24| 
+| 27. | Personaje_meta, caja_meta y espacio | Por hacer |19/03/24|
+| 28. | Personaje_meta, caja_meta y meta | Por hacer |19/03/24|
 
 ## Arriba
 
