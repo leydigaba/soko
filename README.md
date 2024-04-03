@@ -139,8 +139,8 @@ Para llevar un mejor control del avance del desarrollo se utiliza la metodologí
 | No. | Función | Kanban | Inicio | Fin | Fecha terminación |
 | --- | --- | --- | --- | --- | --- |
 | 17. | Personaje, espacio | Terminado | [4,0] | [[0,4] | 17/03/24 |
-| 18. | Personaje, meta | Terminado | [] | [] | - |
-| 19. | Personaje, caja, espacio | Terminado | [] | [] | - |
+| 18. | Personaje, meta | Terminado | [2,0] | [5,4] | 17/03/24  |
+| 19. | Personaje, caja, espacio | Terminado | [4,1,0] | [1,0,4] | 17/03/24  |
 | 20. | Personaje, caja, meta | Terminado | [2,1,0] | [6,0,4] | 17/03/24 |
 | 21. | Personaje, caja_meta, espacio | Terminado | [4,6,0] | [1,5,4] | 17/03/24 |
 | 22. | Personaje, caja_meta, meta | Terminado | [2,6,0] | [6,5,4] | 17/03/24  |
