@@ -138,52 +138,52 @@ Para llevar un mejor control del avance del desarrollo se utiliza la metodologí
 
 | No. | Función | Kanban | Inicio | Fin | Fecha terminación |
 | --- | --- | --- | --- | --- | --- |
-| 17. | Personaje, espacio | - | [] | [] | - |
-| 18. | Personaje, meta | - | [] | [] | - |
-| 19. | Personaje, caja, espacio | - | [] | [] | - |
-| 20. | Personaje, caja, meta | - | [] | [] | - |
-| 21. | Personaje, caja_meta, espacio | - | [] | [] | - |
-| 22. | Personaje, caja_meta, meta | - | [] | [] | - |
-| 23. | Personaje_meta, espacio | - | [] | [] | - |
-| 24. | Personaje_meta, meta | - | [] | [] | - |
-| 25. | Personaje_meta, caja, espacio | - | [] | [] | - |
-| 26. | Personaje_meta, caja, meta | - | [] | [] | - |
-| 27. | Personaje_meta, caja_meta, espacio | - | [] | [] | - |
-| 28. | Personaje_meta, caja_meta, meta | - | [] | [] | - |
+| 17. | Personaje, espacio | Terminado | [4,0] | [[0,4] | 17/03/24 |
+| 18. | Personaje, meta | Terminado | [] | [] | - |
+| 19. | Personaje, caja, espacio | Terminado | [] | [] | - |
+| 20. | Personaje, caja, meta | Terminado | [2,1,0] | [6,0,4] | 17/03/24 |
+| 21. | Personaje, caja_meta, espacio | Terminado | [4,6,0] | [1,5,4] | 17/03/24 |
+| 22. | Personaje, caja_meta, meta | Terminado | [2,6,0] | [6,5,4] | 17/03/24  |
+| 23. | Personaje_meta, espacio | Terminado | [4,5] | [0,2] | 17/03/24  |
+| 24. | Personaje_meta, meta | Terminado | [2,5] | [5,2] | 17/03/24  |
+| 25. | Personaje_meta, caja, espacio | Terminado | [4,1,5] | [1,0,2] | 17/03/24  |
+| 26. | Personaje_meta, caja, meta | Terminado | [2,1,5] | [6,0,2] | 17/03/24  |
+| 27. | Personaje_meta, caja_meta, espacio | Terminado | [4,6,5] | [1,5,2] | 17/03/24 |
+| 28. | Personaje_meta, caja_meta, meta | Terminado | [2,6,5] | [6,5,2] | 17/03/24  |
 
 ### 6.4 Arriba
 
 | No. | Función | Kanban | Inicio | Fin | Fecha terminación |
 | --- | --- | --- | --- | --- | --- |
-| 29. | Personaje, espacio | - | [][] | [][] | - |
-| 30. | Personaje, meta | - | [][] | [][] | - |
-| 31. | Personaje, caja, espacio | - | [][] | [][] | - |
-| 32. | Personaje, caja, meta | - | [][] | [][] | - |
-| 33. | Personaje, caja_meta, espacio | - | [][] | [][] | - |
-| 34. | Personaje, caja_meta, meta | - | [][] | [][] | - |
-| 35. | Personaje_meta, espacio | - | [][] | [][] | - |
-| 36. | Personaje_meta, meta | - | [][] | [][] | - |
-| 37. | Personaje_meta, caja, espacio | - | [][] | [][] | - |
-| 38. | Personaje_meta, caja, meta | - | [][] | [][] | - |
-| 39. | Personaje_meta, caja_meta, espacio | - | [][] | [][] | - |
-| 40. | Personaje_meta, caja_meta, meta | - | [][] | [][] | - |
+| 29. | Personaje, espacio |  Terminado | [4,0] | [0,4] | 17/03/24 |
+| 30. | Personaje, meta | - | [] | [] | - |
+| 31. | Personaje, caja, espacio | - | [] | [] | - |
+| 32. | Personaje, caja, meta |  Terminado | [2,6,0] | [6,5,4] | 17/03/24 |
+| 33. | Personaje, caja_meta, espacio |  Terminado | [4,6,0] | [1,5,4] | 17/03/24 |
+| 34. | Personaje, caja_meta, meta |  Terminado| [2,6,0] | [6,5,4] | 17/03/24 |
+| 35. | Personaje_meta, espacio |  Terminado | [4,5] | [0,2] | 17/03/24 |
+| 36. | Personaje_meta, meta |  Terminado| [2,5] | [5,2] | 17/03/24 |
+| 37. | Personaje_meta, caja, espacio |  Terminado | [4,1,5] | [1,0,2] | 17/03/24 |
+| 38. | Personaje_meta, caja, meta |  Terminado | [2,1,5] | [6,0,2] | 17/03/24 |
+| 39. | Personaje_meta, caja_meta, espacio |  Terminado | [4,6,5] | [1,5,2] | 17/03/24 |
+| 40. | Personaje_meta, caja_meta, meta |  Terminado | [2,6,5] | [6,5,2] | 17/03/24 |
 
 ### 6.5 Abajo
 
 | No. | Función | Kanban | Inicio | Fin | Fecha terminación |
 | --- | --- | --- | --- | --- | --- |
-| 41. | Personaje, espacio | - | [][] | [][] | - |
-| 42. | Personaje, meta | - | [][] | [][] | - |
-| 43. | Personaje, caja, espacio | - | [][] | [][] | - |
-| 44. | Personaje, caja, meta | - | [][] | [][] | - |
-| 45. | Personaje, caja_meta, espacio | - | [][] | [][] | - |
-| 46. | Personaje, caja_meta, meta | - | [][] | [][] | - |
-| 47. | Personaje_meta, espacio | - | [][] | [][] | - |
-| 48. | Personaje_meta, meta | - | [][] | [][] | - |
-| 49. | Personaje_meta, caja, espacio | - | [][] | [][] | - |
-| 50. | Personaje_meta, caja, meta | - | [][] | [][] | - |
-| 51. | Personaje_meta, caja_meta, espacio | - | [][] | [][] | - |
-| 52. | Personaje_meta, caja_meta, meta | - | [][] | [][] | - |
+| 41. | Personaje, espacio | - | [0,4] | [4,0] | 17/03/24 |
+| 42. | Personaje, meta | - | [0,2] | [4,5] | 17/03/24 |
+| 43. | Personaje, caja, espacio | - | [0,1,4] | [4,0,1] | 17/03/24|
+| 44. | Personaje, caja, meta | - | [0,1,2] | [4,0,6] | 17/03/24|
+| 45. | Personaje, caja_meta, espacio | - | [0,6,4] | [4,5,1] | 17/03/24 |
+| 46. | Personaje, caja_meta, meta | - | [0,6,2] | [4,5,6] | 17/03/24 |
+| 47. | Personaje_meta, espacio | - | [5,4] | [2,0] | 17/03/24 |
+| 48. | Personaje_meta, meta | - | [5,2] | [2,5] | 17/03/24 |
+| 49. | Personaje_meta, caja, espacio | - | [5,1,4] | [2,0,1] | 17/03/24 |
+| 50. | Personaje_meta, caja, meta | - | [5,1,2] | [2,0,6] | 17/03/24 |
+| 51. | Personaje_meta, caja_meta, espacio | - | [5,6,4] | [2,5,1] | 17/03/24 |
+| 52. | Personaje_meta, caja_meta, meta | - | [5,6,2] | [2,5,6] | 17/03/24 |
 
 ### 6.6 Determina si se completo el nivel
 
