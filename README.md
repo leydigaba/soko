@@ -110,7 +110,7 @@ Para llevar un mejor control del avance del desarrollo se utiliza la metodologí
 | --- | --- | --- | --- |
 | 0. | Cargar el siguiente nivel. | - | - |
 | 1. | Repetir el juego hasta terminar el nivel. | - | - |
-| 2. | Imprimir mapa.| - | - |
+| 2. | Imprimir mapa.| TERMINADO | 10/03/24 |
 | 3. | Leer el movimiento. | TERMINADO | 10/04/24 |
 | 4. | Evaluar el movimiento del usuario. | TERMINADO | 10/0424 |
 
