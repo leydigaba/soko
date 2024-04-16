@@ -108,8 +108,8 @@ Para llevar un mejor control del avance del desarrollo se utiliza la metodologí
 ### 6.1 Funciones generales
 | No. |Función | Kanban | Fecha terminación |
 | --- | --- | --- | --- |
-| 0. | Cargar el siguiente nivel. | TERMINADO | - |
-| 1. | Repetir el juego hasta terminar el nivel. | - | - |
+| 0. | Cargar el siguiente nivel. | TERMINADO | 13/04/24 |
+| 1. | Repetir el juego hasta terminar el nivel. | TERMINADO |  |
 | 2. | Imprimir mapa.| TERMINADO | 10/03/24 |
 | 3. | Leer el movimiento. | TERMINADO | 10/04/24 |
 | 4. | Evaluar el movimiento del usuario. | TERMINADO | 10/0424 |
@@ -138,52 +138,53 @@ Para llevar un mejor control del avance del desarrollo se utiliza la metodologí
 
 | No. | Función | Kanban | Inicio | Fin | Fecha terminación |
 | --- | --- | --- | --- | --- | --- |
-| 17. | Personaje, espacio | Terminado | [4,0] | [[0,4] | 17/03/24 |
-| 18. | Personaje, meta | Terminado | [2,0] | [5,4] | 17/03/24  |
-| 19. | Personaje, caja, espacio | Terminado | [4,1,0] | [1,0,4] | 17/03/24  |
-| 20. | Personaje, caja, meta | Terminado | [2,1,0] | [6,0,4] | 17/03/24 |
-| 21. | Personaje, caja_meta, espacio | Terminado | [4,6,0] | [1,5,4] | 17/03/24 |
-| 22. | Personaje, caja_meta, meta | Terminado | [2,6,0] | [6,5,4] | 17/03/24  |
-| 23. | Personaje_meta, espacio | Terminado | [4,5] | [0,2] | 17/03/24  |
-| 24. | Personaje_meta, meta | Terminado | [2,5] | [5,2] | 17/03/24  |
-| 25. | Personaje_meta, caja, espacio | Terminado | [4,1,5] | [1,0,2] | 17/03/24  |
-| 26. | Personaje_meta, caja, meta | Terminado | [2,1,5] | [6,0,2] | 17/03/24  |
-| 27. | Personaje_meta, caja_meta, espacio | Terminado | [4,6,5] | [1,5,2] | 17/03/24 |
-| 28. | Personaje_meta, caja_meta, meta | Terminado | [2,6,5] | [6,5,2] | 17/03/24  |
+| 5. | Personaje, pasillo  | Terminado | [0,4] | [4,0] | 16/03/24 |
+| 6. | Personaje, meta  | Terminado | [0,2] | [4,5] |16/03/24 |
+| 7. | Personaje, caja, pasillo | Terminado | [0,1,4] | [4,0,1] | 16/03/24 |
+| 8. | Personaje, caja,  meta | Terminado | [0,1,2] | [4,0,6] | 16/03/24|
+| 9. | Personaje, caja_meta, pasillo | Terminado | [0,6,4] | [4,5,1 ] | 16/03/24 |
+| 10. |Personaje, caja_meta, meta | Terminado | [0,6,2] | [4,5,6] | 16/03/24 |
+| 11. | Personaje_meta, pasillo | Terminado | [5,4] | [2,0] | 16/03/24 |
+| 12. | Personaje_meta, meta | Terminado | [5,2] | [2,5] | 16/03/24 |
+| 13. | Personaje_meta, caja, pasillo |Terminado | [5,1,4] | [2,0,1] | 16/03/24|
+| 14. | Personaje_meta, caja, meta |Terminado | [5,1,2] | [2,0,6] | 16/03/24 |
+| 15. | Personaje_meta, caja_meta, pasillo |Terminado | [5,6,4] | [2,5,1] | 16/03/24 |
+| 16. | Personaje_meta, caja_meta, meta | Terminado | [5,6,2] | [2,5,6] | 16/03/24 |
+
 
 ### 6.4 Arriba
 
 | No. | Función | Kanban | Inicio | Fin | Fecha terminación |
 | --- | --- | --- | --- | --- | --- |
-| 29. | Personaje, espacio |  Terminado | [4,0] | [0,4] | 17/03/24 |
-| 30. | Personaje, meta | Terminado | [2,0] | [5,4] |  17/03/24  |
-| 31. | Personaje, caja, espacio | Terminado | [4,1,0] | [1,0,4] |  17/03/24  |
-| 32. | Personaje, caja, meta |  Terminado | [2,6,0] | [6,5,4] | 17/03/24 |
-| 33. | Personaje, caja_meta, espacio |  Terminado | [4,6,0] | [1,5,4] | 17/03/24 |
-| 34. | Personaje, caja_meta, meta |  Terminado| [2,6,0] | [6,5,4] | 17/03/24 |
-| 35. | Personaje_meta, espacio |  Terminado | [4,5] | [0,2] | 17/03/24 |
-| 36. | Personaje_meta, meta |  Terminado| [2,5] | [5,2] | 17/03/24 |
-| 37. | Personaje_meta, caja, espacio |  Terminado | [4,1,5] | [1,0,2] | 17/03/24 |
-| 38. | Personaje_meta, caja, meta |  Terminado | [2,1,5] | [6,0,2] | 17/03/24 |
-| 39. | Personaje_meta, caja_meta, espacio |  Terminado | [4,6,5] | [1,5,2] | 17/03/24 |
-| 40. | Personaje_meta, caja_meta, meta |  Terminado | [2,6,5] | [6,5,2] | 17/03/24 |
+| 5. | Personaje, pasillo  | Terminado | [0,4] | [4,0] | 16/03/24 |
+| 6. | Personaje, meta  | Terminado | [0,2] | [4,5] |16/03/24 |
+| 7. | Personaje, caja, pasillo | Terminado | [0,1,4] | [4,0,1] | 16/03/24 |
+| 8. | Personaje, caja,  meta | Terminado | [0,1,2] | [4,0,6] | 16/03/24|
+| 9. | Personaje, caja_meta, pasillo | Terminado | [0,6,4] | [4,5,1 ] | 16/03/24 |
+| 10. |Personaje, caja_meta, meta | Terminado | [0,6,2] | [4,5,6] | 16/03/24 |
+| 11. | Personaje_meta, pasillo | Terminado | [5,4] | [2,0] | 16/03/24 |
+| 12. | Personaje_meta, meta | Terminado | [5,2] | [2,5] | 16/03/24 |
+| 13. | Personaje_meta, caja, pasillo |Terminado | [5,1,4] | [2,0,1] | 16/03/24|
+| 14. | Personaje_meta, caja, meta |Terminado | [5,1,2] | [2,0,6] | 16/03/24 |
+| 15. | Personaje_meta, caja_meta, pasillo |Terminado | [5,6,4] | [2,5,1] | 16/03/24 |
+| 16. | Personaje_meta, caja_meta, meta | Terminado | [5,6,2] | [2,5,6] | 16/03/24 |
 
 ### 6.5 Abajo
 
 | No. | Función | Kanban | Inicio | Fin | Fecha terminación |
 | --- | --- | --- | --- | --- | --- |
-| 41. | Personaje, espacio | - | [0,4] | [4,0] | 17/03/24 |
-| 42. | Personaje, meta | - | [0,2] | [4,5] | 17/03/24 |
-| 43. | Personaje, caja, espacio | - | [0,1,4] | [4,0,1] | 17/03/24|
-| 44. | Personaje, caja, meta | - | [0,1,2] | [4,0,6] | 17/03/24|
-| 45. | Personaje, caja_meta, espacio | - | [0,6,4] | [4,5,1] | 17/03/24 |
-| 46. | Personaje, caja_meta, meta | - | [0,6,2] | [4,5,6] | 17/03/24 |
-| 47. | Personaje_meta, espacio | - | [5,4] | [2,0] | 17/03/24 |
-| 48. | Personaje_meta, meta | - | [5,2] | [2,5] | 17/03/24 |
-| 49. | Personaje_meta, caja, espacio | - | [5,1,4] | [2,0,1] | 17/03/24 |
-| 50. | Personaje_meta, caja, meta | - | [5,1,2] | [2,0,6] | 17/03/24 |
-| 51. | Personaje_meta, caja_meta, espacio | - | [5,6,4] | [2,5,1] | 17/03/24 |
-| 52. | Personaje_meta, caja_meta, meta | - | [5,6,2] | [2,5,6] | 17/03/24 |
+| 5. | Personaje, pasillo  | Terminado | [0,4] | [4,0] | 16/03/24 |
+| 6. | Personaje, meta  | Terminado | [0,2] | [4,5] |16/03/24 |
+| 7. | Personaje, caja, pasillo | Terminado | [0,1,4] | [4,0,1] | 16/03/24 |
+| 8. | Personaje, caja,  meta | Terminado | [0,1,2] | [4,0,6] | 16/03/24|
+| 9. | Personaje, caja_meta, pasillo | Terminado | [0,6,4] | [4,5,1 ] | 16/03/24 |
+| 10. |Personaje, caja_meta, meta | Terminado | [0,6,2] | [4,5,6] | 16/03/24 |
+| 11. | Personaje_meta, pasillo | Terminado | [5,4] | [2,0] | 16/03/24 |
+| 12. | Personaje_meta, meta | Terminado | [5,2] | [2,5] | 16/03/24 |
+| 13. | Personaje_meta, caja, pasillo |Terminado | [5,1,4] | [2,0,1] | 16/03/24|
+| 14. | Personaje_meta, caja, meta |Terminado | [5,1,2] | [2,0,6] | 16/03/24 |
+| 15. | Personaje_meta, caja_meta, pasillo |Terminado | [5,6,4] | [2,5,1] | 16/03/24 |
+| 16. | Personaje_meta, caja_meta, meta | Terminado | [5,6,2] | [2,5,6] | 16/03/24 |
 
 ### 6.6 Determina si se completo el nivel
 
@@ -191,8 +192,8 @@ Está función determina si todas las cajas estan en una meta, cuando esto suced
 
 | No. | Función | Kanban | Fecha terminación |
 | --- | --- | --- | --- |
-| 53. | Evaluar si el nivel esta terminado (Esto sucede cuando todas las cajas estan sobre las metas), SI el nivel esta terminado cargar el siguiente nivel (Los niveles de juego estarán en archivos de texto independiente). | -TERMINADO|13/04/24  |
-| 54. | Reiniciar el mapa (Con la letra r, se vuelve a cargar el nivel que se esta jugando) | terminado | - |
+| 53. | Evaluar si el nivel esta terminado (Esto sucede cuando todas las cajas estan sobre las metas), SI el nivel esta terminado cargar el siguiente nivel (Los niveles de juego estarán en archivos de texto independiente). | -TERMINADO |13/04/24  |
+| 54. | Reiniciar el mapa (Con la letra r, se vuelve a cargar el nivel que se esta jugando) | TERMINADO | 13/04/24 |
 
 ### 6.7 Función extra
 
