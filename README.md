@@ -109,7 +109,7 @@ Para llevar un mejor control del avance del desarrollo se utiliza la metodologí
 | No. |Función | Kanban | Fecha terminación |
 | --- | --- | --- | --- |
 | 0. | Cargar el siguiente nivel. | TERMINADO | 13/04/24 |
-| 1. | Repetir el juego hasta terminar el nivel. | TERMINADO |  |
+| 1. | Repetir el juego hasta terminar el nivel. | TERMINADO |13/04/24  |
 | 2. | Imprimir mapa.| TERMINADO | 10/03/24 |
 | 3. | Leer el movimiento. | TERMINADO | 10/04/24 |
 | 4. | Evaluar el movimiento del usuario. | TERMINADO | 10/0424 |
