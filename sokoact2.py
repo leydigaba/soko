@@ -37,7 +37,6 @@ class Soko:
             self.personaje_fila = 1
             self.nivel_seleccionado = True
             self.nivel_actual = 1
-            
             pass
 
         else:
@@ -63,9 +62,6 @@ class Soko:
                 6: '✅'   # Caja en meta
             }
            
-           
-           
-  
             for fila in self.mapa:
             # Mapea cada número a su símbolo correspondiente y luego imprime la fila
                print(''.join(simbolos[num] for num in fila))
@@ -74,9 +70,7 @@ class Soko:
     def limpiar_pantalla(self):
         # Esta función simula limpiar la pantalla imprimiendo varias líneas en blanco
         print('\n' * 8)
-        
-        
-        
+
     def jugar(self):
         # Pide al usuario el nivel solo si no se ha seleccionado antes
         if not self.nivel_seleccionado:
@@ -84,7 +78,6 @@ class Soko:
             print("Estás jugando el nivel " + str(nivel))
             self.seleccionar_nivel(nivel)
             self.imprimirMapa()
-    
 
         while True:
             movimiento = input("Introduce W (arriba), A (izquierda), S (abajo), D (derecha) para mover al jugador:")
@@ -105,11 +98,7 @@ class Soko:
                 self.imprimirMapa()
             elif movimiento == 'exit':
                 continue  # Continuar con el bucle sin imprimir el mapa nuevamente después del reinicio
-            
 
-        
-        
-        
             if self.nivel_terminado():
                 print("¡Felicidades! Has completado el nivel.")
                 self.imprimirMapa()
@@ -141,8 +130,6 @@ class Soko:
                     return False
         return True  # Si no hay cajas en el mapa, el nivel está terminado
     
-
-
 
     def derecha(self):
         # Movimiento 5: [0,4] -> [4,0]
